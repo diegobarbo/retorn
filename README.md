@@ -1,2 +1,2 @@
-# retorn
+# retorna
 quadro de mensagens
